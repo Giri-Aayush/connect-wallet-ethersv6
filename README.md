@@ -21,7 +21,7 @@ To get started with the project, follow the steps outlined in the article. Here'
 5. Implement the logic to connect and disconnect the wallet.
 6. Customize the button's appearance and behavior as desired.
 
-For detailed instructions, refer to the [Medium article](link-to-article) for beginners.
+For detailed instructions, refer to the [Medium article](https://medium.com/@aayushgiri1234/creating-a-connect-wallet-button-using-ethers-js-v6-in-a-react-dapp-7269b5011e4f) for beginners.
 
 ## Usage
 
@@ -44,7 +44,7 @@ Feel free to customize the appearance and behavior of the "Connect Wallet" butto
 ## Built With
 
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces.
-- [ethers.js](https://docs.ethers.io/v5/) - JavaScript library for interacting with Ethereum.
+- [ethers.js](https://docs.ethers.org/v6/getting-started/) - JavaScript library for interacting with Ethereum.
 
 ## License
 
@@ -56,8 +56,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name](your-website-link)
+[Aayush Giri](https://aayush-giri.vercel.app/)
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Giri-Aayush](https://github.com/Giri-Aayush)
 
 Enjoy building your DApp with the "Connect Wallet" button!
